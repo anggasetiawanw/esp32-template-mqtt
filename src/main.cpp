@@ -10,8 +10,8 @@
 #include "esp_tls.h"
 #include "mqtt_client.h"
 
-#define DEFAULT_WIFI_SSID "Pitik Hub"
-#define DEFAULT_WIFI_PASS "pitik*123"
+#define DEFAULT_WIFI_SSID "SSID"
+#define DEFAULT_WIFI_PASS "PASSWORD"
 
 const char *MQTT_HOST = "HOST-MQTT";
 const char *MQTT_USERNAME = "USERNAME";
